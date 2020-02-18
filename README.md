@@ -21,8 +21,7 @@ Our explanations for these latent fraud records include:
 2. Mortgage fraud
 3. Tax avoidance
 
-Please note that, due to the nature of and time dedicated to the analysis, our report may have the following limitations:
 
-1. Limited understanding of New York property legislation
-2. Lack of thorough understanding of certain variables
-3. Partial optimization of parameters from the unsupervised learning model
+
+
+  
